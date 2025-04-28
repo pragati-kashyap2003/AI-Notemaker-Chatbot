@@ -49,7 +49,7 @@ const MeetingNotesGenerator = () => {
   const recognitionRef = useRef<any>(null);
 
   // Replace with your actual OpenRouter API key
-  const OPENROUTER_API_KEY = "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";
+  const OPENROUTER_API_KEY = "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";
   
   // Scroll to bottom when messages change
   useEffect(() => {
