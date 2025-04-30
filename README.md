@@ -45,3 +45,8 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+##Run in it local host
+http://localhost:8080/
+
+##Deployment Link
+https://ai-notemaker-chatbot-g5zyaqzae-pragati-kashyaps-projects.vercel.app/
